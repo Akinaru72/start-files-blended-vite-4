@@ -1,8 +1,6 @@
----
-
 ## 1. Todos
 
-- `todos.items` — list of all todos
+- todos.items — list of all todos
 - supports:
   - adding a todo
   - deleting a todo
